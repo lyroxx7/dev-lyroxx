@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @dev-lyroxx
-- 👀 I’m interested in coding Discord Bots and Websites
-- 🌱 I’m currently learning JavaScript, HTML & CSS
-- 📫 How to reach me: Discord "lyroxx#1303"
+- 👋 Hi, I’m lyroxx
+- 👀 I’m interested in coding FiveM Stuff & Web Stuff
+- 🌱 I’m currently working with Vue, Typescript/JavaScript, Lua, Python & more
+- 📫 How to reach me: Discord "lyroxx7#0"
 
 <!---
 dev-lyroxx/dev-lyroxx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
