@@ -1,6 +1,6 @@
 - 👋 Hi, I’m lyroxx
 - 👀 I’m interested in coding FiveM Stuff & Web Stuff
-- 🌱 I’m currently working with Vue, Typescript/JavaScript, Lua, Python & more
+- 🌱 I’m currently working with Vue, Typescript/JavaScript, Lua & more
 - 📫 How to reach me: Discord "lyroxx7#0"
 
 <!---
