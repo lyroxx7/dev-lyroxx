@@ -22,4 +22,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-lyroxx&show_icons=true&locale=en" alt="dev-lyroxx" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-lyroxx&" alt="dev-lyroxx" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lyroxx7&" alt="lyroxx7" /></p>
